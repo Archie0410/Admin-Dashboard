@@ -84,9 +84,8 @@ src/
 
 ## 📸 Screenshots
 
-> _Add your screenshots here!_
+![image](https://github.com/user-attachments/assets/b40e0127-4f4e-44e6-832d-f11a05568a8d)
 
----
 
 ---
 
